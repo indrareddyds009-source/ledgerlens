@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/indrareddyds009-source/ledgerlens/actions/workflows/ci.yml/badge.svg)](https://github.com/indrareddyds009-source/ledgerlens/actions)
 
+**▶ Live demo: https://ledgerlens-indra.streamlit.app** (runs the offline planner; no API key needed)
+
 LedgerLens lets a bank customer ask plain-English questions about **their own** transactions
 ("How much did I spend on dining in March?", "What about April?", "Anything suspicious?")
 and get accurate, auditable answers. It's built the way a regulated financial institution would need it:
