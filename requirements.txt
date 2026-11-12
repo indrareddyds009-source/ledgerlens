@@ -1,0 +1,8 @@
+langgraph>=1.0,<2
+langchain-core>=1.0,<2
+langchain-openai>=1.0,<2
+duckdb>=1.1
+fastapi>=0.115
+uvicorn[standard]>=0.30
+streamlit>=1.38
+pydantic>=2.7
